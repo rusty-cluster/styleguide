@@ -5,7 +5,7 @@
 * Nuxt is redundant cause Vue 3 has built-in ssr
 * [ESlint without prettier](https://eslint.org/docs/rules/indent)
 * Test suite with Jest, vue-test-utils, msw
-* woff2 fonts
+* [woff2 fonts](https://caniuse.com/woff2)
 * configuration via ENV variables
 * BEM with flexboxes and CSS Grid over UX frameworks
 * vue-cli 
