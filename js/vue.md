@@ -3,7 +3,7 @@
 * pug for indent-based html
 * PostCSS + SugarCSS for indent-based css
 * Nuxt is redundant cause Vue 3 has built-in ssr
-* ESlint
+* [ESlint without prettier](https://eslint.org/docs/rules/indent)
 * Test suite with Jest, vue-test-utils, msw
 * woff2 fonts
 * configuration via ENV variables
