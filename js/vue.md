@@ -1,0 +1,11 @@
+* Vue 3 with composition api
+* Single-file components
+* pug for indent-based html
+* PostCSS + SugarCSS for indent-based css
+* Nuxt is redundant cause Vue 3 has built-in ssr
+* ESlint
+* Test suite with Jest, vue-test-utils, msw
+* woff2 fonts
+* configuration via ENV variables
+* BEM with flexboxes and CSS Grid over UX frameworks
+* vue-cli 
