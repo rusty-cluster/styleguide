@@ -1,5 +1,4 @@
-* Vue 3 with composition api
-* Single-file components
+* Vue 3 with composition api and [SFC](https://vuejs.org/guide/scaling-up/sfc.html)
 * [Pinia](https://vueschool.io/lessons/introduction-to-pinia)
 * pug for indent-based html
 * PostCSS + SugarCSS for indent-based css
