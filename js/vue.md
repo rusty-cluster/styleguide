@@ -9,4 +9,4 @@
 * Test suite with Jest, vue-test-utils, msw
 * [woff2 fonts](https://caniuse.com/woff2)
 * [configuration via ENV variables](https://12factor.net/config)
-* Vite
+* Vite `npm create vite@latest my-vue-app -- --template vue`
