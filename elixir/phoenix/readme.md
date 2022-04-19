@@ -1,7 +1,7 @@
 ## Conventions
 
 * front-end agnostic JSON API with CORS 
-* JWT via https only cookie 
+* [JWT via https only cookie](https://blog.logrocket.com/jwt-authentication-best-practices/) 
 * Ueberauth for authentication
 * Bodyguard for authorization
 * Postgres with jsonb over Mongo
