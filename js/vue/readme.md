@@ -11,7 +11,7 @@
 * [woff2 fonts](https://caniuse.com/woff2)
 * [configuration via ENV variables](https://12factor.net/config)
 
-## Boilerplate
+## [Boilerplate](https://github.com/rusty-cluster/vue-boilerplate)
   
 ```
 npm create vite@latest my-vue-app -- --template vue
