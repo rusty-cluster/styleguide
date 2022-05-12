@@ -2,8 +2,7 @@
 
 * create a branch for each feature
 * check `git diff` before each commit
-* squash commits into one before merging branch
-* rebase branch with `main` before asking review
+* squash commits into one and rebase branch with `main` before asking review
 * merge branch after approval
 * delete branch after merge
 
