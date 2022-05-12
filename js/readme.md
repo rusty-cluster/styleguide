@@ -7,7 +7,7 @@
 * const over let (remember, `const obj = {}` is a trap)
 * [never use semicolons](https://feross.org/never-use-semicolons/)
 * ESLint
-* Vite for hmr and [esbuild](https://github.com/evanw/esbuild) 
+* Vite for hmr and [esbuild](https://github.com/evanw/esbuild)
 * Tests with vitest, jsdom, msw
 
 ## Anti-patterns
