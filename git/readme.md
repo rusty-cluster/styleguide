@@ -1,8 +1,8 @@
 ## git
 
 * create a branch for each feature
-* check `git diff` before each commit
-* squash commits into one and rebase branch with `main` before asking review
+* check `git diff` before commit
+* squash commits into one and rebase branch with `main` before requesting review
 * merge branch after approval
 * delete branch after merge
 
