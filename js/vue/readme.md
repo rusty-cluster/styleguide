@@ -10,6 +10,7 @@
 * Test suite with [vitest](https://github.com/vitest-dev/vitest), vue-test-utils, [msw](https://github.com/mswjs/msw)
 * [woff2 fonts](https://caniuse.com/woff2)
 * [configuration via ENV variables](https://12factor.net/config)
+* alias `@` to `./src/`
 
 ## [Boilerplate](https://github.com/rusty-cluster/vue-boilerplate)
   
