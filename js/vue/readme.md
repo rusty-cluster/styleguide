@@ -6,7 +6,7 @@
 * [SugarSS](https://github.com/postcss/sugarss) for indent-based css
 * [BEM](https://css-tricks.com/bem-101/) with flexboxes and CSS Grid over UX frameworks
 * ID selectors and scoped styles prohibited because of BEM, to reduce cognitive overhead
-* [ESlint without prettier](https://eslint.org/docs/rules/indent), Stylelint
+* [ESlint](/js/vue/.eslintrc.js), Stylelint
 * Test suite with [vitest](https://github.com/vitest-dev/vitest), vue-test-utils, [msw](https://github.com/mswjs/msw)
 * [woff2 fonts](https://caniuse.com/woff2)
 * [configuration via ENV variables](https://12factor.net/config)
