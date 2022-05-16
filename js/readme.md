@@ -5,9 +5,10 @@
 * pattern matching for destructuring assignment
 * const over let (remember, `const obj = {}` is a trap)
 * [never use semicolons](https://feross.org/never-use-semicolons/)
-* [ESLint](/js/.eslintrc.json)
-* Vite for hmr and [esbuild](https://github.com/evanw/esbuild)
-* Tests with vitest, jsdom, msw
+* [eslint](/js/.eslintrc.json)
+* vite for hmr and [esbuild](https://github.com/evanw/esbuild)
+* tests with vitest, jsdom, msw
+* choose deps with [bundlephobia.com](https://bundlephobia.com/)
 
 ## Anti-patterns
 
