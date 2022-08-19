@@ -22,7 +22,3 @@
 ```
 npm create vite@latest my-vue-app -- --template vue
 ```
-
-## Anti-patterns
-
-* Nuxt is redundant cause Vue 3 has built-in ssr
