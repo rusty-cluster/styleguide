@@ -9,7 +9,3 @@
 * vite for hmr and [esbuild](https://github.com/evanw/esbuild)
 * tests with vitest, jsdom, msw
 * choose deps with [bundlephobia.com](https://bundlephobia.com/)
-
-## Anti-patterns
-
-* Typescript is cargo cult of the system programming world which reduces maintainability. Correct strong types in browser is Rust code compiled to wasm.
